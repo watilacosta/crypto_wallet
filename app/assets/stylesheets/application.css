@@ -28,3 +28,8 @@
   text-align: center;
   font-size: 16px;
 }
+
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+}
