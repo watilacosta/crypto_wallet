@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # debug
 gem 'pry-rails'
+
+# Adiciona um spinner no terminal 
+gem 'tty-spinner'
